@@ -1,0 +1,4 @@
+include ':stylelib'
+include ':stileslibrary'
+include ':app'
+rootProject.name = "VitaricosEstilos"
